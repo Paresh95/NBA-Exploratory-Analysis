@@ -1,9 +1,11 @@
-"# project2018-Paresh95" 
+# NBA Exploratory Analysis
+
+**Description:** Visualisation project to examine some of the trends in the NBA
 
 
-Kaggle datasets variable key
+**Data features explaination**
 
-Players.csv
+**Players.csv**
 
 1. Player - Player's full name (first and last)
 2. height - Height in cm
@@ -13,7 +15,7 @@ Players.csv
 6. birth_city - City where the player was born
 7. birth_state - State where the player was born
 
-Seasons_Stats.csv
+**Seasons_Stats.csv**
 
 1. Year - Season
 2. Player - Player's full name (first and last)
